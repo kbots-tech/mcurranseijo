@@ -8,7 +8,6 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-141414?style=flat&logo=java">
 </p>
 
-   I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
 
 <h3 align="center">Frameworks & Technologies I utilize<br></h3>
 
