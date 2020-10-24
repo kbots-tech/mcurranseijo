@@ -6,7 +6,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
   <img alt="Java" src="https://img.shields.io/badge/-Java-141414?style=flat&logo=java">
-  <img alt="Go" src="https://img.shields.io/badge/-Go-23272A?style=flat&logo=go">
 </p>
 
    I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
