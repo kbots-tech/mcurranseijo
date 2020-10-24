@@ -10,7 +10,7 @@
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-### 👩‍💻 I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
+   I'm working on <a href = "https://hostsapling.net">HostSapling</a>!
 
 <h3 align="center">Frameworks & Technologies I utilize<br></h3>
 
