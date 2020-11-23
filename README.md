@@ -21,3 +21,10 @@
 <p align="center">
       <img width="45%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mcurranseijo&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
 </p>
+
+<h3 align="center"Add My Discord Bot<br></h3>
+
+<a href="https://top.gg/bot/776859282988597268">
+    <img src="https://top.gg/api/widget/776859282988597268.svg" alt="Bot-For-All" />
+</a>
+
