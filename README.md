@@ -18,6 +18,7 @@
   <img alt="Adobe Illustator" src="https://img.shields.io/badge/-Adobe Illustrator-23272A?style=flat&logo=adobe-illustrator">i
 </p><br>
 
+<h3 align="center">My Github Stats<br></h3>
 <p align="center">
       <img width="45%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mcurranseijo&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
 </p>
