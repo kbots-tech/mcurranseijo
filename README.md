@@ -24,7 +24,7 @@
 
 <h3 align="center"Add My Discord Bot<br></h3>
 
-<a href="https://top.gg/bot/776859282988597268">
+<a align="center" href="https://top.gg/bot/776859282988597268">
     <img src="https://top.gg/api/widget/776859282988597268.svg" alt="Bot-For-All" />
 </a>
 
