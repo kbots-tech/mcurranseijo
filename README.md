@@ -26,8 +26,8 @@
 
 <h3 align="center">My Discord Bot<br></h3>
 <p align="center">
-<a href="https://top.gg/bot/776859282988597268">
-    <img src="https://top.gg/api/widget/776859282988597268.svg" alt="Bot-For-All" />
+<a href="https://top.gg/bot/755592938922442782">
+    <img src="https://top.gg/api/widget/755592938922442782.svg" alt="DungeonMaster" />
 </a>
 </p>
 
